@@ -17,3 +17,7 @@ Hello, I would like to congratulate you on the software! Excellent.
 
 ##### geoneil - Jun 15, 2023
 This is amazing software. I want to thank you for this. I've never seen a more convenient way to just get and run games in MAME.
+
+##### star_jump - Jan 5, 2023
+You've been permanently banned from participating in r/MAME.
+![reddit-star-jump](https://github.com/sam-ludlow/sam-ludlow/blob/main/reddit-star-jump.png)
